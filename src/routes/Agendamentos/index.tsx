@@ -22,7 +22,7 @@ export default function Agendamentos() {
           </h2>
           {tickets.length === 0 ? (
             <p className="mt-4 rounded-2xl border-2 border-dashed border-slate-300 p-8 text-center text-slate-500">
-              Nenhum carro na fila ainda. Gere o primeiro tíquete! 🚗
+              Nenhum carro na fila ainda. Gere o primeiro tíquete!
             </p>
           ) : (
             <ul className="mt-4 space-y-4">

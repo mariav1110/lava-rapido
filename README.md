@@ -10,13 +10,12 @@ Checkpoint 5 — **Roteamento de páginas e uso de contexto**
 ## 👥 Integrantes
 
 | Nome                           | RM     |
-| ------------------------------ | ------ |
 | Maria Vitória Cândida Carvalho | 570850 |
 | Yasmin de Oliveira Matsuok     | 573083 |
 
 ## 🔗 Link do projeto no GitHub
 
-https://github.com/yasminmatsuok/lava-rapido
+https://github.com/mariav1110/lava-rapido.git
 
 ## 📄 Páginas
 
